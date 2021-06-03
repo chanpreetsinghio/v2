@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
-import { email } from '@config';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
 
@@ -41,6 +40,7 @@ const StyledHeroSection = styled.section`
   .email-link {
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
+    margin-right:10px;
   }
 `;
 
@@ -63,16 +63,19 @@ const Hero = () => {
   const four = (
     <p>
       I'm a software engineer who specializes in building (and occasionally designing)
-      exceptional digital experiences. Currently, I'm an engineer at{' '}
-      <a href="https://www.oncehub.com/">Oncehub</a> focused on building accessible,
+      exceptional digital experiences. Currently, I'm Software engineer at{' '}
+      <a href="https://www.oncehub.com/" target="_blank" rel="noreferrer">Oncehub</a> focused on building accessible,
       scheduling products.
     </p>
   );
-  const five = (
-    <a href={`mailto:${email}`} className="email-link">
-      Get In Touch
-    </a>
-  );
+  const five = [  <a key={0} href={`https://www.linkedin.com/in/chanpreetsinghio`} className="email-link"  target="_blank" rel="noreferrer">
+  LinkedIn
+  </a>, <a key={1} href={`https://go.oncehub.com/chanpreetsingh`} className="email-link" target="_blank" rel="noreferrer">
+  Schedule virtual meeting
+  </a>];
+   
+  
+
 
   const items = [one, two, three, four, five];
 

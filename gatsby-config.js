@@ -5,7 +5,7 @@ module.exports = {
     title: 'Chanpreet Singh',
     description:
       'Chanpreet Singh is a a self-taught web developer with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience.',
-    siteUrl: 'https://chanpreetsingh.in', // No trailing slash allowed!
+    siteUrl: 'https://chanpreetsingh.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@chanpreetio',
   },

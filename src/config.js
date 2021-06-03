@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'chat@chanpreetsingh.in',
+  email: 'chat@chanpreetsingh.com',
 
   socialMedia: [
     {
@@ -7,21 +7,22 @@ module.exports = {
       url: 'https://github.com/chanpreetsinghio',
     },
     {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/chanpreetsinghio',
+    },
+    {
       name: 'Instagram',
       url: 'https://www.instagram.com/chanpreetsinghio',
+    },
+    {
+      name: 'Facebook',
+      url: 'https://www.facebook.com/chanpreetsinghio',
     },
     {
       name: 'Twitter',
       url: 'https://twitter.com/chanpreetio',
     },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chanpreetsinghio',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chanpreetsinghio',
-    },
+
   ],
 
   navLinks: [
@@ -44,7 +45,7 @@ module.exports = {
   ],
 
   colors: {
-    green: '#64ffda',
+    green: '#FCF532',
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },

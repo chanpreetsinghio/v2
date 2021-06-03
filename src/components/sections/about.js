@@ -144,9 +144,9 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://www.tcs.com/">a huge corporation</a>. My
+              <a href="https://www.tcs.com/" target="_blank" rel="noreferrer">a huge corporation</a>. My
               main focus these days is building accessible, inclusive scheduling products and digital
-              experiences at <a href="https://www.oncehub.com/">Oncehub</a> for a variety of
+              experiences at <a href="https://www.oncehub.com/" target="_blank" rel="noreferrer">Oncehub</a> for a variety of
               clients.
             </p>
 
