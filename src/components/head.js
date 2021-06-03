@@ -32,7 +32,7 @@ const Head = ({ title, description, image }) => {
     defaultImage,
     twitterUsername,
   } = site.siteMetadata;
-
+  debugger;
   const seo = {
     title: title || defaultTitle,
     description: description || defaultDescription,
@@ -40,7 +40,8 @@ const Head = ({ title, description, image }) => {
     url: `${siteUrl}${pathname}`,
   };
 
-  return (
+
+  return ( 
     <Helmet title={title} defaultTitle={seo.title} titleTemplate={`%s | ${defaultTitle}`}>
       <html lang="en" />
 

@@ -10,7 +10,6 @@ const StyledHeroSection = styled.section`
   flex-direction: column;
   align-items: flex-start;
   min-height: 100vh;
-  padding: 0;
 
   @media (max-width: 480px) and (min-height: 700px) {
     padding-bottom: 10vh;
@@ -63,10 +62,10 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <p>
-      I'm a Boston-based software engineer who specializes in building (and occasionally designing)
+      I'm a software engineer who specializes in building (and occasionally designing)
       exceptional digital experiences. Currently, I'm an engineer at{' '}
-      <a href="https://upstatement.com/">Upstatement</a> focused on building accessible,
-      human-centered products.
+      <a href="https://www.oncehub.com/">Oncehub</a> focused on building accessible,
+      scheduling products.
     </p>
   );
   const five = (
