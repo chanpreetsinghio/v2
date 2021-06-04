@@ -250,6 +250,7 @@ const Jobs = () => {
         <StyledTabList role="tablist" aria-label="Job tabs" onKeyDown={e => onKeyDown(e)}>
           {jobsData &&
             jobsData.map(({ node }, i) => {
+              
               const { company } = node.frontmatter;
               return (
                 <StyledTabButton

@@ -40,7 +40,6 @@ const StyledHeroSection = styled.section`
   .email-link {
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
-    margin-right:10px;
   }
 `;
 
@@ -63,16 +62,14 @@ const Hero = () => {
   const four = (
     <p>
       I'm a software engineer who specializes in building (and occasionally designing)
-      exceptional digital experiences. Currently, I'm Software engineer at{' '}
+      exceptional digital experiences. Currently, I'm an engineer at{' '}
       <a href="https://www.oncehub.com/" target="_blank" rel="noreferrer">Oncehub</a> focused on building accessible,
       scheduling products.
     </p>
   );
-  const five = [  <a key={0} href={`https://www.linkedin.com/in/chanpreetsinghio`} className="email-link"  target="_blank" rel="noreferrer">
-  LinkedIn
-  </a>, <a key={1} href={`https://go.oncehub.com/chanpreetsingh`} className="email-link" target="_blank" rel="noreferrer">
+  const five = ( <a  href={`https://go.oncehub.com/chanpreetsingh`} className="email-link" target="_blank" rel="noreferrer">
   Schedule virtual meeting
-  </a>];
+  </a>);
    
   
 

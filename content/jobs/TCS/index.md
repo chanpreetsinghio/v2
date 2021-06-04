@@ -1,7 +1,7 @@
 ---
 date: '2017-3-2'
 title: 'Systems Engineer'
-company: 'Tata Consultancy Services'
+company: 'TCS'
 location: 'India'
 range: 'March 2017 - June 2019'
 url: 'https://www.tcs.com/'

@@ -46,7 +46,7 @@ const Head = ({ title, description, image }) => {
 
       <meta name="description" content={seo.description} />
       <meta name="image" content={seo.image} />
-
+      <meta name="keywords" content="Chanpreet singh,Chanpreet Singh,chanpreetsinghio,i am chanpreet singh,singh,chanpreet,chanpreetio, i am chan singh,chanpreet singh,who is chanpreet singh , cp singh , chan , chanpreet , singh chan , i am chanpreet,chan singh chanpreet ,software developer , Machine Learning Enthusiast"/>
       <meta property="og:title" content={seo.title} />
       <meta property="og:description" content={seo.description} />
       <meta property="og:image" content={seo.image} />
