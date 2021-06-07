@@ -43,6 +43,8 @@ const Head = ({ title, description, image }) => {
   return ( 
     <Helmet title={title} defaultTitle={seo.title} titleTemplate={`%s | ${defaultTitle}`}>
       <html lang="en" />
+      
+      {/* <script id="co-index" src="https://cdn.oncehub.com/co/widget.js?website_id=web-f56d46bd2a" defer ></script> */}
 
       <meta name="description" content={seo.description} />
       <meta name="image" content={seo.image} />

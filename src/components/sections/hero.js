@@ -78,6 +78,7 @@ const Hero = () => {
 
   return (
     <StyledHeroSection>
+    
       {prefersReducedMotion ? (
         <>
           {items.map((item, i) => (
