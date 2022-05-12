@@ -1,8 +1,8 @@
 ---
 date: '2018-12-29'
 title: 'Calculator'
-github: 'https://github.com/chanpreetsinghio/calculator'
-external: 'https://github.com/chanpreetsinghio/calculator'
+github: 'https://github.com/thechanpreetsingh/calculator'
+external: 'https://thechanpreetsingh.github.io/calculator'
 tech:
   - javaScript
   - HTML
