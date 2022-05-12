@@ -2,7 +2,7 @@
 date: '2019-11-12'
 title: 'Custom countdown'
 github: ''
-external: 'http://chanpreetsingh.in/custom-countdown/'
+external: 'https://thechanpreetsingh.github.io/custom-countdown/'
 tech:
   - javaScript
   - HTML
