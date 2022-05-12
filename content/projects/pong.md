@@ -1,8 +1,8 @@
 ---
 date: '2020-01-10'
 title: 'Pong game'
-github: 'https://github.com/chanpreetsinghio/pong'
-external: 'http://chanpreetsingh.in/pong/'
+github: 'https://github.com/thechanpreetsingh/pong'
+external: 'https://thechanpreetsingh.github.io/pong/'
 tech:
   - javaScript
   - HTML
