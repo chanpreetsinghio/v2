@@ -1,8 +1,8 @@
 ---
 date: '2017-11-01'
 title: 'Music player'
-github: 'https://github.com/chanpreetsinghio/music-player'
-external: 'http://chanpreetsingh.in/music-player/'
+github: 'https://github.com/thechanpreetsingh/music-player'
+external: 'https://thechanpreetsingh.github.io/music-player/'
 tech:
   - javaScript
   - HTML
