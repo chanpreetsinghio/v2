@@ -2,7 +2,7 @@
 date: '2020-03-27'
 title: 'Joker teller robot'
 github: ''
-external: 'http://chanpreetsingh.in/joke-teller/'
+external: 'https://thechanpreetsingh.github.io/joke-teller/'
 tech:
   - javaScript
   - HTML
