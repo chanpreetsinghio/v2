@@ -4,23 +4,23 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chanpreetsinghio',
+      url: 'https://github.com/thechanpreetsingh',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chanpreetsinghio',
+      url: 'https://www.linkedin.com/in/thechanpreetsingh',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/chanpreetsinghio',
+      url: 'https://www.instagram.com/thechanpreetsingh',
     },
     {
       name: 'Facebook',
-      url: 'https://www.facebook.com/chanpreetsinghio',
+      url: 'https://www.facebook.com/thechanpreetsingh',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chanpreetio',
+      url: 'https://twitter.com/thechansingh',
     },
 
   ],
