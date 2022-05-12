@@ -2,8 +2,8 @@
 date: '1'
 title: 'Quote Generator'
 cover: './quote.png'
-github: 'https://github.com/chanpreetsinghio/quote-generator'
-external: 'http://chanpreetsingh.in/quote-generator/'
+github: 'https://github.com/thechanpreetsingh/quote-generator'
+external: 'https://thechanpreetsingh.github.io/quote-generator/'
 tech:
   - VS Code
   - JavaScript
