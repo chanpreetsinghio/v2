@@ -2,7 +2,7 @@
 date: '2017-12-01'
 title: 'Paint clone'
 github: ''
-external: 'http://chanpreetsingh.in/paint-clone/'
+external: 'https://thechanpreetsingh.github.io/paint-clone/'
 tech:
   - javaScript
   - HTML
